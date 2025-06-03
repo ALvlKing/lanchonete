@@ -21,7 +21,7 @@ O projeto contém 3 páginas principais:
 
 ---
 
-## 🗂 Estrutura do Projeto
+## 🗂 Estrutura do Projeto (Exemplo)
 
 ```bash
 /raiz-do-projeto
