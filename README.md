@@ -47,14 +47,12 @@ O projeto contém 3 páginas principais:
 ## 🧩 Organização do Código
 
 - **HTML**  
-  Utiliza tags semânticas (`<header>`, `<nav>`, `<section>`, `<footer>`) para melhor estruturação.  
-  Classes nomeadas de forma clara e descritiva.
+  Utiliza tags semânticas (`<header>`, `<section>`, `<footer>`) para melhor estruturação.  
+  IDs nomeados de forma clara e descritiva.
 
 - **CSS**  
-  Estilos concentrados no arquivo `estilos.css`.  
-  Uso de Flexbox para layout flexível e responsivo.  
+  Estilos concentrados na pasta `CSS`.    
   Paleta de cores quentes e tipografia agradável, combinando com a identidade visual da lanchonete.  
-  Efeitos sutis de hover para melhorar a experiência do usuário.
 
 - **Imagens**  
   Separadas em pastas específicas para manter organização e facilitar a manutenção.
